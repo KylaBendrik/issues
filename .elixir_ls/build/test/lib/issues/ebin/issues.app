@@ -1,6 +1,6 @@
 {application,issues,
              [{applications,[kernel,stdlib,elixir,logger,poison,earmark,
-                             ex_doc,httpoison]},
+                             httpoison,ex_doc]},
               {description,"issues"},
               {modules,['Elixir.Issues','Elixir.Issues.CLI',
                         'Elixir.Issues.GithubIssues',
